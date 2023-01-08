@@ -17,8 +17,8 @@ int main()
         }
     }
     if(max-n>n-min)
-    printf("%d",min);
-    else if(max-n<n-min)
+    printf("%d",min); 
+    else if(max-n<n-min) 
     printf("%d",max);
     else 
     printf("%d %d",min,max);
