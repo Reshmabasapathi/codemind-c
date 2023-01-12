@@ -13,6 +13,6 @@ int main()
     }
     if(a==1)
     printf("True");
-    else 
+    else
     printf("False");
 }
